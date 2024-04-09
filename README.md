@@ -15,6 +15,8 @@
 
 ### Изучаю:
 - курс Stepik "Поколение Python": курс для продвинутых
+- NGINX Cookbook by Derek DeJonghe
+- DevOps in Python: Infrastructure as Python by Moshe Zadka
 - активно посвящаю все свободное время изучению материалов на ресурсах: Habr, Youtube, Telegram etc по направлению DevOps
 - английский язык: читаю книги на английском языке, обучающие ролики youtube исключительно на английском. На фильмы времени не хватает.
 
