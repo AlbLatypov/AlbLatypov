@@ -1,9 +1,13 @@
 ### Hi there 👋, my name is Albert
 #### I am IT specialist
 
-I am actively studying the DevOps direction
+Специалист в IT. Активно изучаю направление DevOps
 
 Skills: Python / Git / Ansible / Linux / Docker
+
+- 🔭 I’m currently working on Linux 
+- 🌱 I’m currently learning Linux, Ansible, Python, Grafana, Prometheus 
+- 🤔 I’m looking for help with to become DevOps 
 
 <!--
 **AlbLatypov/AlbLatypov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
