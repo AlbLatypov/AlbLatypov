@@ -14,7 +14,7 @@
 - Linux: расписать подробнее (отразить youtube Yandex lessons, 
 
 ### Изучаю:
-- курс Stepik "Поколение Python": курс для продвинутых
+- [курс Stepik "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)
 - NGINX Cookbook by Derek DeJonghe
 - DevOps in Python: Infrastructure as Python by Moshe Zadka
 - активно посвящаю все свободное время изучению материалов на ресурсах: Habr, Youtube, Telegram etc по направлению DevOps
