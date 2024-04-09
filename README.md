@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, my name is Albert
+#### I am IT specialist
+
+I am actively studying the DevOps direction
+
+Skills: Python / Git / Ansible / Linux / Docker
 
 <!--
 **AlbLatypov/AlbLatypov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
