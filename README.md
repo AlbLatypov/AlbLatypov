@@ -28,7 +28,7 @@
 - [ ] Linux
   - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/30)
   - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)&ensp;![Progress](https://progress-bar.dev/40)
-  - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/10)
+  - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/12)
   - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
    - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
   - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
@@ -43,7 +43,7 @@
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/55)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/56)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Книга | [📚 DevOps in Python: Infrastructure as Python.Moshe Zadka](https://github.com/AlbLatypov/books.git)
@@ -93,9 +93,9 @@
 <br>
 
 - [ ] __Software engineering__
-  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://www.youtube.com/playlist?list=PLjCCarnDJNstX36A6Cw_YD28thNFev1op)&ensp;![Progress](https://progress-bar.dev/7)
+  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://www.youtube.com/playlist?list=PLjCCarnDJNstX36A6Cw_YD28thNFev1op)&ensp;![Progress](https://progress-bar.dev/14)
   - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/7)
-  - [ ] Книга | 📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_ ![Progress](https://progress-bar.dev/0)
+  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
   - [ ] Ссылки  | 🔗[Полезное](links.md)
 
 

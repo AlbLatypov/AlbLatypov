@@ -5,3 +5,7 @@
 - [ ] Статья | [Шпаргалка по работе с Tmux (терминальный мультиплексор)](https://habr.com/ru/articles/327630/)
 - [ ] Статья | [Load Average в Linux: разгадка тайны](https://habr.com/ru/companies/vk/articles/335326/)  
 - [ ] Github | [Универсальный сборник статей по наиболее важным темам GNU/Linux.)](https://github.com/iu5git/linux-course/blob/master/Wiki.md)
+- [ ] Trainings | [Тинькофф Контест. Онлайн-тренировка)](https://fintech.tinkoff.ru/activities/contest/)
+- [ ] Цикл статей | [Компьютерные сети. _Андрей Созыкин_)](https://www.asozykin.ru/courses/networks_online)
+
+
