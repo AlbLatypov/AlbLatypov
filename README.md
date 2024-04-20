@@ -51,7 +51,11 @@
 
 - [ ] __Networks__
   - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/0)
-  - [x] Курс | Андрей Созыкин. [Компьютерные сети](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | Андрей Созыкин. [Компьютерные сети](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | Андрей Созыкин. [Защищенные сетевые протоколы](https://www.youtube.com/watch?v=LTLqazCztnc&list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Цикл статей | [Компьютерные сети. _Андрей Созыкин_)](https://www.asozykin.ru/courses/networks_online)
+
+  
   <br>
 
 - [ ] __Ansible__
