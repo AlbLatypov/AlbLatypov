@@ -51,8 +51,8 @@
 
 - [ ] __Networks__
   - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2024 год](https://www.youtube.com/watch?v=sOKljYVLD2Q&list=PLtPJ9lKvJ4ojPWFLuUz6g8c73Ta45bUN8&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2024 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Курс | Андрей Созыкин. [Защищенные сетевые протоколы](https://www.youtube.com/watch?v=LTLqazCztnc&list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Сайт | Андрей Созыкин [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
   <br>
