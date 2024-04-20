@@ -57,7 +57,7 @@
 - [ ] __Ansible__
   - [x] Курс | [Getting started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)&ensp;![Progress](https://progress-bar.dev/100)
   - [x] [Server Sber https://cloud.ru](https://cloud.ru): Playbooks, Roles for ssh, nftables, node exporter, etc.
-  - [ ] Книга | 📚 Ansible for DevOps Server and configuration management for humans. _Jeff Geerling_![Progress](https://progress-bar.dev/35)
+  - [ ] Книга | 📚 [Ansible for DevOps Server and configuration management for humans. _Jeff Geerling_](https://github.com/AlbLatypov/Software_Engineering.git)![Progress](https://progress-bar.dev/35)
 <br>
 
 - [ ] __Grafana, Prometheus__
@@ -93,9 +93,9 @@
 <br>
 
 - [ ] __Software engineering__
-  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://www.youtube.com/playlist?list=PLjCCarnDJNstX36A6Cw_YD28thNFev1op)&ensp;![Progress](https://progress-bar.dev/14)
+  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/14)
   - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/7)
-  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
+  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/20)
   - [ ] Ссылки  | 🔗[Полезное](links.md)
 
 
