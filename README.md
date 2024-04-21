@@ -43,7 +43,7 @@
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/56)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/57)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Книга | [📚 DevOps in Python: Infrastructure as Python.Moshe Zadka](https://github.com/AlbLatypov/books.git)
@@ -64,9 +64,10 @@
 <br>
 
 - [ ] __Grafana, Prometheus__
-  - [x] grafana сервере cloud.ru&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Prometheus сервере cloud.ru&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Node-Exporter (2 ноутбука, сервер Сбер)&ensp;![Progress](https://progress-bar.dev/0)
+  - [x] VPS | [https://cloud.ru/ru](https://cloud.ru/ru)
+  - [ ] Мониторинг | Grafana &ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Мониторинг | Prometheus &ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Мониторинг | Node-Exporter (2 ноутбука, сервер Сбер)&ensp;![Progress](https://progress-bar.dev/0)
 <br>
 
 - [ ] __Docker__
