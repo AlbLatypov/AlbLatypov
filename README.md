@@ -28,7 +28,7 @@
 - [ ] Linux
   - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/30)
   - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)&ensp;![Progress](https://progress-bar.dev/40)
-  - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/12)
+  - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/13)
   - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
    - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
   - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
