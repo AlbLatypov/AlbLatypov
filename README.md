@@ -60,8 +60,9 @@
 - [ ] __Ansible__
   - [x] Курс | [Getting started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)&ensp;![Progress](https://progress-bar.dev/100)
   - [x] [Server Sber https://cloud.ru](https://cloud.ru): Playbooks, Roles for ssh, nftables, node exporter, etc.
-  - [ ] Книга | 📚 [Ansible for DevOps Server and configuration management for humans. _Jeff Geerling_](https://github.com/AlbLatypov/Software_Engineering.git)![Progress](https://progress-bar.dev/35)
+  - [ ] Книга | 📚 [O'Reilly Запускаем Ansible. _Лорин Хоштейн, Рене Мозер_ _2017г_](https://github.com/AlbLatypov/books)![Progress](https://progress-bar.dev/25)
 <br>
+📚 [O'Reilly Запускаем Ansible. _Лорин Хоштейн, Рене Мозер_ _2017г_](/Ansible_Up_n_running/README.md)![Progress](https://progress-bar.dev/25)
 
 - [ ] __Grafana, Prometheus__
   - [x] VPS | [https://cloud.ru/ru](https://cloud.ru/ru)
