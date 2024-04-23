@@ -13,4 +13,7 @@
 - [ ] Цикл статей | [Компьютерные сети. _Андрей Созыкин_](https://www.asozykin.ru/courses/networks_online)
 - [ ] Cайт | [Автоматизация разработки и эксплуатации ПО](https://iu5edu.ru/wiki/devops/)
 - [ ] Cайт | [Блог ДевоПса. _Земцов Владимир_](https://zvlb.github.io/tags/)
+- [ ] Cайт | [Learn X in Y minutes](https://learnxinyminutes.com/)
+
+
 
