@@ -36,6 +36,7 @@
 
 - [ ] __Version Control System: Git__
   - [x] Курс | [Git: курс 50 уроков](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)&ensp;![Progress](https://progress-bar.dev/80)
+  - [x] Курс | [Git: разное](https://www.youtube.com/watch?v=lHacJuru1bc&list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
   - [x] Курс | [GitHowTo](https://githowto.com/ru/git_basics)&ensp;![Progress](https://progress-bar.dev/90)
   - [x] Книга | 📚 Pro Git. _Scott Chacon_ (Справочник)
   - [x] git (init, clone, add, commit, push, pull, merge)
@@ -43,7 +44,7 @@
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/57)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/58)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Книга | [📚 DevOps in Python: Infrastructure as Python.Moshe Zadka](https://github.com/AlbLatypov/books.git)
@@ -62,7 +63,6 @@
   - [x] [Server Sber https://cloud.ru](https://cloud.ru): Playbooks, Roles for ssh, nftables, node exporter, etc.
   - [ ] Книга | 📚 [O'Reilly Запускаем Ansible. _Лорин Хоштейн, Рене Мозер_ _2017г_](https://github.com/AlbLatypov/books)![Progress](https://progress-bar.dev/25)
 <br>
-📚 [O'Reilly Запускаем Ansible. _Лорин Хоштейн, Рене Мозер_ _2017г_](/Ansible_Up_n_running/README.md)![Progress](https://progress-bar.dev/25)
 
 - [ ] __Grafana, Prometheus__
   - [x] VPS | [https://cloud.ru/ru](https://cloud.ru/ru)
