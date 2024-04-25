@@ -10,6 +10,7 @@
 - [ ] Статья | [Без curl/wget/telnet делать tcp/udp запросы.](linux.md)
 - [ ] Статья | [Пример файла .bashrc](https://www.opennet.ru/docs/RUS/bash_scripting_guide/a15124.html)
 - [ ] Статья | [Bash скрипты. Цикл статей](https://habr.com/ru/companies/ruvds/articles/325522/)
+- [ ] Сайт учебник | [Пишем Telegram-ботов с aiogram 3.x ](https://mastergroosha.github.io/aiogram-3-guide/)
 - [ ] Github | [Универсальный сборник статей по наиболее важным темам GNU/Linux.](https://github.com/iu5git/linux-course/blob/master/Wiki.md)
 - [ ] Trainings | [Тинькофф Контест. Онлайн-тренировка](https://fintech.tinkoff.ru/activities/contest/)
 - [ ] Цикл статей | [Компьютерные сети. _Андрей Созыкин_](https://www.asozykin.ru/courses/networks_online)
