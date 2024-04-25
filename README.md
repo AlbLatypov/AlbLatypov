@@ -46,7 +46,9 @@
 - [ ] __Programming__
   - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/58)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
+  - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
+
   - [ ] Книга | [📚 DevOps in Python: Infrastructure as Python.Moshe Zadka](https://github.com/AlbLatypov/books.git)
 <br>
 
