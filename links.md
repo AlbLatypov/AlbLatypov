@@ -1,13 +1,14 @@
 # Полезные ссылки для изучения
 
 
-- [ ] Статья | [Обучение системного инженера. Путеводитель по ключевым навыкам и знаниям](https://habr.com/ru/companies/yandex_praktikum/articles/796929/)
-- [ ] Статья | [Шпаргалка по работе с Tmux (терминальный мультиплексор)](https://habr.com/ru/articles/327630/)
+- [x] Статья | [Обучение системного инженера. Путеводитель по ключевым навыкам и знаниям](https://habr.com/ru/companies/yandex_praktikum/articles/796929/)
+- [x] Статья | [Шпаргалка по работе с Tmux (терминальный мультиплексор)](https://habr.com/ru/articles/327630/)
 - [ ] Статья | [Вы должны перестать вручную писать Dockerfile'ы](https://habr.com/ru/articles/807501/)
 - [ ] Статья | [Load Average в Linux: разгадка тайны](https://habr.com/ru/companies/vk/articles/335326/)
+- [x] Статья | [Zabbix vs Grafana A Comprehensive Guide to Choosing the Right Monitoring Tool](https://faun.dev/c/stories/squadcast/zabbix-vs-grafana-a-comprehensive-guide-to-choosing-the-right-monitoring-tool/)
 - [ ] Цикл статей | [Глубокое погружение в Linux namespaces](https://habr.com/ru/articles/458462/)
 - [ ] Статья | [LVM — это просто!](https://habr.com/ru/articles/67283/)
-- [ ] Статья | [Без curl/wget/telnet делать tcp/udp запросы.](linux.md)
+- [x] Статья | [Без curl/wget/telnet делать tcp/udp запросы.](linux.md)
 - [ ] Статья | [Пример файла .bashrc](https://www.opennet.ru/docs/RUS/bash_scripting_guide/a15124.html)
 - [ ] Статья | [Bash скрипты. Цикл статей](https://habr.com/ru/companies/ruvds/articles/325522/)
 - [ ] Сайт учебник | [Пишем Telegram-ботов с aiogram 3.x ](https://mastergroosha.github.io/aiogram-3-guide/)
@@ -18,6 +19,7 @@
 - [ ] Cайт | [Блог ДевоПса. _Земцов Владимир_](https://zvlb.github.io/tags/)
 - [ ] Cайт | [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [ ] Cайт | [Docker.Container and virtualisation difference](https://www.docker.com/resources/what-container/)
+- [ ] Cайт | [Яндекс практикум](https://practicum.yandex.ru/catalog/free/?from=main_free_card)
 
 
 
