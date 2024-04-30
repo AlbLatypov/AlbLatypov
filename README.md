@@ -27,7 +27,7 @@
 - [ ] Linux
   - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/30)
   - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)&ensp;![Progress](https://progress-bar.dev/40)
-  - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/13)
+  - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
    - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
   - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/30)
@@ -44,7 +44,7 @@
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/58)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/66)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
@@ -52,7 +52,7 @@
 <br>
 
 - [ ] __Networks__
-  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/07)
+  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/15)
   - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2024 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Курс | Андрей Созыкин. [Защищенные сетевые протоколы](https://www.youtube.com/watch?v=LTLqazCztnc&list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Сайт | Андрей Созыкин [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
@@ -98,9 +98,9 @@
 <br>
 
 - [ ] __Software engineering__
-  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/14)
-  - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/7)
-  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/20)
+  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
+  - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/14)
+  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
   - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Ссылки  | 🔗[Полезное](links.md)
 
