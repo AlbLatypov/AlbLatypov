@@ -21,8 +21,7 @@
 ### Цели и задачи:
 
 - [x] Technical English
-  - [x] [Спокойно читаю техническую литературу it](https://github.com/AlbLatypov/books.git), редкое использование словаря: man, books, english youtube
-  - [x] Постоянно пополняю базу встречающихся слов (ссылка на телеграм бота с обучалкой)
+  - [x] [Чтение технической литераторы IT, man](https://github.com/AlbLatypov/books.git)
   <br>
 
 - [ ] Linux
@@ -31,7 +30,8 @@
   - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/13)
   - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
    - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
-  - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/30)
+  - [ ] Ссылки  | 🔗[Собираем скрипты](https://github.com/AlbLatypov/books/blob/main/mastering_linux_shell_scripting/Scripts/scrpt.readme.md)
 <br>
 
 - [ ] __Version Control System: Git__
@@ -48,12 +48,10 @@
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
-
   - [ ] Книга | [📚 DevOps in Python: Infrastructure as Python.Moshe Zadka](https://github.com/AlbLatypov/books.git)
 <br>
 
 - [ ] __Networks__
-  - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/07)
   - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2024 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Курс | Андрей Созыкин. [Защищенные сетевые протоколы](https://www.youtube.com/watch?v=LTLqazCztnc&list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
@@ -103,6 +101,7 @@
   - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/14)
   - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/7)
   - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/20)
+  - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Ссылки  | 🔗[Полезное](links.md)
 
 
