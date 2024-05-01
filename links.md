@@ -16,6 +16,7 @@
 - [ ] Trainings | [Тинькофф Контест. Онлайн-тренировка](https://fintech.tinkoff.ru/activities/contest/)
 - [ ] Цикл статей | [Компьютерные сети. _Андрей Созыкин_](https://www.asozykin.ru/courses/networks_online)
 - [ ] Cайт | [Автоматизация разработки и эксплуатации ПО](https://iu5edu.ru/wiki/devops/)
+- [ ] Cайт | [Автоматизация разработки и эксплуатации ПО. VK VIDEO](https://vk.com/video/@iu5_official)
 - [ ] Cайт | [Блог ДевоПса. _Земцов Владимир_](https://zvlb.github.io/tags/)
 - [ ] Cайт | [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [ ] Cайт | [Docker.Container and virtualisation difference](https://www.docker.com/resources/what-container/)
