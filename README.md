@@ -30,6 +30,8 @@
   - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
 
+  <br>
+
 - [ ] Linux
   - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/30)
   - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
@@ -39,6 +41,7 @@
   - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)&ensp;![Progress](https://progress-bar.dev/40)
   - [ ] Ссылки  | 🔗[Собираем скрипты](https://github.com/AlbLatypov/books/blob/main/mastering_linux_shell_scripting/Scripts/scrpt.readme.md)
   - [ ] Ссылки  | 🔗[Полезное](links.md)
+
 <br>
 
 - [ ] __Version Control System: Git__
@@ -55,6 +58,7 @@
   - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram (курс приостановлен)](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Книга | [📚 DevOps in Python: Infrastructure as Python.Moshe Zadka](https://github.com/AlbLatypov/books.git)
+
 <br>
 
 - [ ] __Networks__
@@ -62,12 +66,14 @@
   - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2024 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Курс | Андрей Созыкин. [Защищенные сетевые протоколы](https://www.youtube.com/watch?v=LTLqazCztnc&list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Сайт | Андрей Созыкин [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
+
   <br>
 
 - [ ] __Ansible__
   - [x] Курс | [Getting started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)&ensp;![Progress](https://progress-bar.dev/100)
   - [x] [Server Sber https://cloud.ru](https://cloud.ru): Playbooks, Roles for ssh, nftables, node exporter, etc.
   - [ ] Книга | 📚 [O'Reilly Запускаем Ansible. _Лорин Хоштейн, Рене Мозер_ _2017г_](https://github.com/AlbLatypov/books)![Progress](https://progress-bar.dev/25)
+
 <br>
 
 - [ ] __Grafana, Prometheus__
@@ -75,6 +81,7 @@
   - [ ] Мониторинг | Grafana &ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Мониторинг | Prometheus &ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Мониторинг | Node-Exporter (2 ноутбука, сервер Сбер)&ensp;![Progress](https://progress-bar.dev/0)
+
 <br>
 
 - [ ] __Docker__
@@ -82,12 +89,14 @@
   - [ ] Курс | [Complete Docker Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=RqTEHSBrYFw)&ensp;![Progress](https://progress-bar.dev/10)
   - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/10)
   - [ ] Презентация | [The internals and the latest trends of container runtimes. _Akihiro Suda. June 16,2023_ ](https://github.com/AkihiroSuda/AkihiroSuda/blob/34a896dd675196c1c1ece01859530c5ef4eb3fd6/slides/2023/20230615%20%5BKyoto%20University%5D%20The%20internals%20and%20the%20latest%20trends%20of%20container%20runtimes.pdf)&ensp;![Progress](https://progress-bar.dev/0)
+
 <br>
 
 - [ ] __CI/CD__
   - [ ] Видео | [DevOps Workshop: Учимся настраивать Gitlab CI](https://www.youtube.com/watch?v=R58OuSts948)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Видео | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Книга | [📚 Грокаем Continuous Delivery. _Уилсон К._](https://www.piter.com/collection/soon/product/grokaem-continuous-delivery)&ensp;![Progress](https://progress-bar.dev/0)
+
 <br>
 
 - [ ] __Web-servers and load balancers__
@@ -95,12 +104,14 @@
   - [ ] Курс | [Nginx Mastery](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Курс | [Traefik Crash Course](https://www.youtube.com/watch?v=C6IL8tjwC5E)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Книга | 📚NGINX Cookbook by Derek DeJonghe
+
 <br>
 
 - [ ] __Databases__
   - [ ] Курс | [Серия учебных курсов от PostgresPro](https://postgrespro.ru/education/courses)&ensp;![Progress](https://progress-bar.dev/7)
   - [ ] Курс | [Бесплатные курсы от MongoDB University](https://learn.mongodb.com/)&ensp;![Progress](https://progress-bar.dev/7)
   - [ ] Вебсайт | [SQL задачки](https://pgexercises.com/)
+
 <br>
 
 #### Цитаты
