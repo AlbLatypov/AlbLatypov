@@ -27,7 +27,7 @@
 - [ ] __Software engineering__
   - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
+  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
 
   <br>
