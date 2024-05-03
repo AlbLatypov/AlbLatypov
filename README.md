@@ -24,14 +24,21 @@
   - [x] [Чтение технической литераторы IT, man](https://github.com/AlbLatypov/books.git)
   <br>
 
+- [ ] __Software engineering__
+  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
+  - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/14)
+  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/25)
+  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
+
 - [ ] Linux
   - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/30)
-  - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)&ensp;![Progress](https://progress-bar.dev/40)
-  - [ ] Troubleshooting | [Kodekloud.com онлайн-платформа DevOps](https://engineer.kodekloud.com/signup?referral=661c1688e6864249af539613)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
+  - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
    - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
   - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/30)
+  - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)&ensp;![Progress](https://progress-bar.dev/40)
   - [ ] Ссылки  | 🔗[Собираем скрипты](https://github.com/AlbLatypov/books/blob/main/mastering_linux_shell_scripting/Scripts/scrpt.readme.md)
+  - [ ] Ссылки  | 🔗[Полезное](links.md)
 <br>
 
 - [ ] __Version Control System: Git__
@@ -39,14 +46,13 @@
   - [x] Курс | [Git: разное](https://www.youtube.com/watch?v=lHacJuru1bc&list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
   - [x] Курс | [GitHowTo](https://githowto.com/ru/git_basics)&ensp;![Progress](https://progress-bar.dev/90)
   - [x] Книга | 📚 Pro Git. _Scott Chacon_ (Справочник)
-  - [x] git (init, clone, add, commit, push, pull, merge)
-  - [ ] Совместная работа над проектом&ensp;![Progress](https://progress-bar.dev/0)
+
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/66)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/70)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
-  - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
+  - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram (курс приостановлен)](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Книга | [📚 DevOps in Python: Infrastructure as Python.Moshe Zadka](https://github.com/AlbLatypov/books.git)
 <br>
@@ -96,14 +102,6 @@
   - [ ] Курс | [Бесплатные курсы от MongoDB University](https://learn.mongodb.com/)&ensp;![Progress](https://progress-bar.dev/7)
   - [ ] Вебсайт | [SQL задачки](https://pgexercises.com/)
 <br>
-
-- [ ] __Software engineering__
-  - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/14)
-  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
-  - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Ссылки  | 🔗[Полезное](links.md)
-
 
 #### Цитаты
 > Ваша работа заполнит большую часть жизни и единственный способ быть
