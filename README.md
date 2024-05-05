@@ -27,7 +27,7 @@
 - [ ] __Software engineering__
   - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)&ensp;![Progress](https://progress-bar.dev/25)
+  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)&ensp;![Progress](https://progress-bar.dev/30)
   - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
 
   <br>
@@ -53,7 +53,7 @@
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/70)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/71)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram (курс приостановлен)](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
@@ -86,8 +86,9 @@
 
 - [ ] __Docker__
   - [x] Курс | Bogdan Stashchuk. [Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)&ensp;![Progress](https://progress-bar.dev/100)
-  - [ ] Курс | [Complete Docker Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=RqTEHSBrYFw)&ensp;![Progress](https://progress-bar.dev/10)
-  - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/10)
+  - [ ] Курс | rotoro.cloud [Docker для начинающих + практический опыт](https://rotoro.cloud/ld-courses/docker-%d0%b4%d0%bb%d1%8f-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d1%8e%d1%89%d0%b8%d1%85-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | Github [Kodekloud. Active Practice](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/25)
+  - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Презентация | [The internals and the latest trends of container runtimes. _Akihiro Suda. June 16,2023_ ](https://github.com/AkihiroSuda/AkihiroSuda/blob/34a896dd675196c1c1ece01859530c5ef4eb3fd6/slides/2023/20230615%20%5BKyoto%20University%5D%20The%20internals%20and%20the%20latest%20trends%20of%20container%20runtimes.pdf)&ensp;![Progress](https://progress-bar.dev/0)
 
 <br>
