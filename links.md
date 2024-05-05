@@ -19,8 +19,11 @@
 - [ ] Cайт | [Автоматизация разработки и эксплуатации ПО. VK VIDEO](https://vk.com/video/@iu5_official)
 - [ ] Cайт | [Блог ДевоПса. _Земцов Владимир_](https://zvlb.github.io/tags/)
 - [ ] Cайт | [Learn X in Y minutes](https://learnxinyminutes.com/)
-- [ ] Cайт | [Docker.Container and virtualisation difference](https://www.docker.com/resources/what-container/)
+- [x] Cайт | [Docker.Container and virtualisation difference](https://www.docker.com/resources/what-container/)
 - [ ] Cайт | [Яндекс практикум](https://practicum.yandex.ru/catalog/free/?from=main_free_card)
+- [ ] Cайт | [KodeKloud](https://kodekloud.com/blog/docker-certified-associate-exam-series-images-creation-management-and-registry/#tomcat-image)
+- [ ] Cайт | [90 дней DevOps](https://romankurnovskii.com/ru/tracks/90daysofdevops/)
+- [x] Cайт | [Настраиваем Out-Of-Memory Killer в Linux](https://habr.com/ru/companies/slurm/articles/464245/
 
 
 
