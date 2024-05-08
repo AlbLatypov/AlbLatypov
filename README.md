@@ -77,7 +77,7 @@
 <br>
 
 - [ ] __Мониторинг__
-   - [ ] Stepik | [Monitoring IT](https://stepik.org/195394)&ensp;![Progress](https://progress-bar.dev/0)
+   - [ ] Stepik | [Monitoring IT](https://github.com/AlbLatypov/Software_Engineering/blob/main/Stepik-Monitoring-it/README.monitoring.md)&ensp;![Progress](https://progress-bar.dev/10)
 
 <br>
 
