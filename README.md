@@ -33,8 +33,8 @@
   <br>
 
 - [ ] Linux
-  - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/50)
   - [ ] Active Practice [Kodekloud. Lunux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/50)
+  - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/50)
   - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/40)
   - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
   - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)
@@ -77,15 +77,15 @@
 <br>
 
 - [ ] __Мониторинг__
-    [ ] Stepik | мониторинг [Monitoring IT](https://stepik.org/195394)&ensp;![Progress](https://progress-bar.dev/0)
+   - [ ] Stepik | [Monitoring IT](https://stepik.org/195394)&ensp;![Progress](https://progress-bar.dev/0)
 
 <br>
 
 - [ ] __Docker__
-  - [x] Курс | Bogdan Stashchuk. [Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)&ensp;![Progress](https://progress-bar.dev/100)
-  - [ ] Курс | rotoro.cloud [Docker для начинающих + практический опыт](https://rotoro.cloud/ld-courses/docker-%d0%b4%d0%bb%d1%8f-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d1%8e%d1%89%d0%b8%d1%85-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | rotoro.cloud [Docker для начинающих + практический опыт](https://rotoro.cloud/ld-courses/docker-%d0%b4%d0%bb%d1%8f-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d1%8e%d1%89%d0%b8%d1%85-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)&ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Active Practice [Kodekloud. Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/50)
-  - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/50)
+  - [x] Курс | Bogdan Stashchuk. [Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)&ensp;![Progress](https://progress-bar.dev/100)
+  - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/60)
 
 
 <br>
