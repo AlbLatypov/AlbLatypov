@@ -25,22 +25,22 @@
   <br>
 
 - [ ] __Software engineering__
+  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)&ensp;![Progress](https://progress-bar.dev/30)
   - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
   - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)&ensp;![Progress](https://progress-bar.dev/30)
   - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
 
   <br>
 
 - [ ] Linux
-  - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/30)
-  - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
+  - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/50)
+  - [ ] Active Practice [Kodekloud. Lunux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/50)
+  - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/40)
+  - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
+  - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)
   - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
-   - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
-  - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/30)
-  - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)&ensp;![Progress](https://progress-bar.dev/40)
-  - [ ] Ссылки  | 🔗[Собираем скрипты](https://github.com/AlbLatypov/books/blob/main/mastering_linux_shell_scripting/Scripts/scrpt.readme.md)
-  - [ ] Ссылки  | 🔗[Полезное](links.md)
+  - [ ] Github  | 🔗[Собираем скрипты](https://github.com/AlbLatypov/books/blob/main/mastering_linux_shell_scripting/Scripts/scrpt.readme.md)
+  - [ ] Github  | 🔗[Полезное](links.md)
 
 <br>
 
@@ -87,16 +87,16 @@
 - [ ] __Docker__
   - [x] Курс | Bogdan Stashchuk. [Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)&ensp;![Progress](https://progress-bar.dev/100)
   - [ ] Курс | rotoro.cloud [Docker для начинающих + практический опыт](https://rotoro.cloud/ld-courses/docker-%d0%b4%d0%bb%d1%8f-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d1%8e%d1%89%d0%b8%d1%85-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Курс | Github [Kodekloud. Active Practice](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] Презентация | [The internals and the latest trends of container runtimes. _Akihiro Suda. June 16,2023_ ](https://github.com/AkihiroSuda/AkihiroSuda/blob/34a896dd675196c1c1ece01859530c5ef4eb3fd6/slides/2023/20230615%20%5BKyoto%20University%5D%20The%20internals%20and%20the%20latest%20trends%20of%20container%20runtimes.pdf)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Active Practice [Kodekloud. Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/50)
+  - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/50)
+
 
 <br>
 
 - [ ] __CI/CD__
   - [ ] Видео | [DevOps Workshop: Учимся настраивать Gitlab CI](https://www.youtube.com/watch?v=R58OuSts948)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Видео | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Книга | [📚 Грокаем Continuous Delivery. _Уилсон К._](https://www.piter.com/collection/soon/product/grokaem-continuous-delivery)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Книга | [📚 CI/CD Pipeline with Docker and Jenkins. _Sandeep Rawat_
 
 <br>
 
