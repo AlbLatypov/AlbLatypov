@@ -76,11 +76,8 @@
 
 <br>
 
-- [ ] __Grafana, Prometheus__
-  - [x] VPS | [https://cloud.ru/ru](https://cloud.ru/ru)
-  - [ ] Мониторинг | Grafana &ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Мониторинг | Prometheus &ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Мониторинг | Node-Exporter (2 ноутбука, сервер Сбер)&ensp;![Progress](https://progress-bar.dev/0)
+- [ ] __Мониторинг__
+    [ ] Stepik | мониторинг [Monitoring IT](https://stepik.org/195394)&ensp;![Progress](https://progress-bar.dev/0)
 
 <br>
 
