@@ -25,20 +25,20 @@
   <br>
 
 - [ ] __Software engineering__
-  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)&ensp;![Progress](https://progress-bar.dev/30)
+  - [ ] KodeKloud Engineer| [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)&ensp;![Progress](https://progress-bar.dev/50)
   - [ ] Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/25)
-  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books) ![Progress](https://progress-bar.dev/35)
+  - [ ] Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)&ensp;![Progress](https://progress-bar.dev/55)
+  - [ ] Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books)
 
   <br>
 
 - [ ] Linux
   - [ ] Active Practice [Kodekloud. Lunux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/50)
-  - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/50)
-  - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/40)
-  - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)&ensp;![Progress](https://progress-bar.dev/35)
+  - [ ] Курс | [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)&ensp;![Progress](https://progress-bar.dev/60)
+  - [ ] Книга | 📚 [Внутреннее устройство Linux. 3-е издание._Брайан Уорд_](https://github.com/AlbLatypov/books)&ensp;![Progress](https://progress-bar.dev/60)
+  - [ ] Книга | [📚 Mastering Linux Shell Scripting. Second Edition.Mokhtar Ebrahim,Andrew Mallet](https://github.com/AlbLatypov/books.git)
   - [ ] Troubleshooting | [Sadservers. Практика в траблшутинге](https://sadservers.com/)
-  - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Книга | 📚 Python и DevOps: Ключ к автоматизации Linux._Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу_
   - [ ] Github  | 🔗[Собираем скрипты](https://github.com/AlbLatypov/books/blob/main/mastering_linux_shell_scripting/Scripts/scrpt.readme.md)
   - [ ] Github  | 🔗[Полезное](links.md)
 
@@ -53,7 +53,7 @@
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/71)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/78)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram (курс приостановлен)](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
@@ -70,9 +70,9 @@
   <br>
 
 - [ ] __Ansible__
+  - [ ] Книга | 📚 [O'Reilly Запускаем Ansible. _Лорин Хоштейн, Рене Мозер_ _2017г_](https://github.com/AlbLatypov/books)![Progress](https://progress-bar.dev/55)
   - [x] Курс | [Getting started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)&ensp;![Progress](https://progress-bar.dev/100)
   - [x] [Server Sber https://cloud.ru](https://cloud.ru): Playbooks, Roles for ssh, nftables, node exporter, etc.
-  - [ ] Книга | 📚 [O'Reilly Запускаем Ansible. _Лорин Хоштейн, Рене Мозер_ _2017г_](https://github.com/AlbLatypov/books)![Progress](https://progress-bar.dev/25)
 
 <br>
 
@@ -82,8 +82,8 @@
 <br>
 
 - [ ] __Docker__
+  - [ ] Active Practice [Kodekloud. Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/85)
   - [ ] Курс | rotoro.cloud [Docker для начинающих + практический опыт](https://rotoro.cloud/ld-courses/docker-%d0%b4%d0%bb%d1%8f-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d1%8e%d1%89%d0%b8%d1%85-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%be%d0%bf%d1%8b%d1%82/)&ensp;![Progress](https://progress-bar.dev/60)
-  - [ ] Active Practice [Kodekloud. Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/50)
   - [x] Курс | Bogdan Stashchuk. [Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)&ensp;![Progress](https://progress-bar.dev/100)
   - [ ] Курс | [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)&ensp;![Progress](https://progress-bar.dev/60)
 
@@ -98,9 +98,9 @@
 <br>
 
 - [ ] __Web-servers and load balancers__
-  - [ ] Курс | [HAProxy](https://www.youtube.com/playlist?list=PLQnljOFTspQUhgfvpgfxc-uFlWElKIBr-)&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Курс | [Nginx Mastery](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1)&ensp;![Progress](https://progress-bar.dev/0)
-  - [ ] Курс | [Traefik Crash Course](https://www.youtube.com/watch?v=C6IL8tjwC5E)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | [HAProxy](https://www.youtube.com/playlist?list=PLQnljOFTspQUhgfvpgfxc-uFlWElKIBr-)
+  - [ ] Курс | [Nginx Mastery](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1)
+  - [ ] Курс | [Traefik Crash Course](https://www.youtube.com/watch?v=C6IL8tjwC5E)
   - [ ] Книга | 📚NGINX Cookbook by Derek DeJonghe
 
 <br>

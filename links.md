@@ -7,6 +7,7 @@
 - [ ] Статья | [Load Average в Linux: разгадка тайны](https://habr.com/ru/companies/vk/articles/335326/)
 - [x] Статья | [Zabbix vs Grafana A Comprehensive Guide to Choosing the Right Monitoring Tool](https://faun.dev/c/stories/squadcast/zabbix-vs-grafana-a-comprehensive-guide-to-choosing-the-right-monitoring-tool/)
 - [ ] Цикл статей | [Глубокое погружение в Linux namespaces](https://habr.com/ru/articles/458462/)
+- [x] Статья | [Гайд по межсетевому экранированию (nftables)](https://habr.com/ru/articles/684524/)
 - [ ] Статья | [LVM — это просто!](https://habr.com/ru/articles/67283/)
 - [x] Статья | [Без curl/wget/telnet делать tcp/udp запросы.](linux.md)
 - [ ] Статья | [Пример файла .bashrc](https://www.opennet.ru/docs/RUS/bash_scripting_guide/a15124.html)
