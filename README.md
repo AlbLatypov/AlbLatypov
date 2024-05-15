@@ -1,24 +1,12 @@
 ### Hi there 👋, my name is Albert
 #### I am IT specialist
 
-Специалист в IT. Изучаю направление DevOps, хочу попасть в это движение.
+Специалист в IT. 
 
-#### Образование
- Высшее техническое:
- - Учебное заведение: Ленинградский государственный университет им. А.С. Пушкина
- - Год окончания: 2005
- - Факультет: Математики, физики, информатики
- - Форма обучения: очная
-
-#### Место работы:
-- февраль 2024 - Начальник службы связи филиал ООО "Газпром трансгаз Санкт-Петербург" Пикалевское ЛПУМГ
-- 2013-2023 филиал ООО "Газпром трансгаз Санкт-Петербург":
-инженер службы АСУ ➡️ инженер 1 категории службы АСУ ➡️ ведущий инженер службы АСУ + исполнение обязанностей начальника службы
-- 2007-2013 ООО "Евроцемент груп":
-инженер-программист ➡️ инженер программист 2 кат ➡️ инженер-программист 1 кат ➡️ Ведущий инженер-программист
+Профиль является ежедневной отправной точкой в изучении инструментов, практик и философии Devops. Ежедневно дополняется, отмечаются изученные материалы. Также присутствуют ссылки на репозитории с изучаемым материалом.
 
 
-### Цели и задачи:
+### Этапы изучения:
 
 - [x] Technical English
   - [x] [Чтение технической литераторы IT, man](https://github.com/AlbLatypov/books.git)
@@ -53,7 +41,7 @@
 <br>
 
 - [ ] __Programming__
-  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/78)
+  - [ ] Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/85)
   - [ ] Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - [ ] Курс | [Stepik - Телеграм-боты на Python и AIOgram (курс приостановлен)](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - [ ] Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/25)
@@ -63,7 +51,7 @@
 
 - [ ] __Networks__
   - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/15)
-  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2024 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Курс | Андрей Созыкин. [Компьютерные сети 2024 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/15)
   - [ ] Курс | Андрей Созыкин. [Защищенные сетевые протоколы](https://www.youtube.com/watch?v=LTLqazCztnc&list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Сайт | Андрей Созыкин [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
 
@@ -91,13 +79,16 @@
 <br>
 
 - [ ] __CI/CD__
-  - [ ] Видео | [DevOps Workshop: Учимся настраивать Gitlab CI](https://www.youtube.com/watch?v=R58OuSts948)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Видео | [Система автоматизации Jenkins. Часть 1,2,3](https://youtu.be/tvswVeMptLM?list=TLPQMTUwNTIwMjRI67BAOsAXuQ)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Видео | [Jenkins](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)&ensp;![Progress](https://progress-bar.dev/0)
+  - [ ] Видео | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Видео | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)&ensp;![Progress](https://progress-bar.dev/0)
   - [ ] Книга | [📚 CI/CD Pipeline with Docker and Jenkins. _Sandeep Rawat_
 
 <br>
 
 - [ ] __Web-servers and load balancers__
+    [ ] Youtube | [Linux by Rebrain: Haproxy + nginx](https://youtu.be/3UzYoLmkF-g)
   - [ ] Курс | [HAProxy](https://www.youtube.com/playlist?list=PLQnljOFTspQUhgfvpgfxc-uFlWElKIBr-)
   - [ ] Курс | [Nginx Mastery](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1)
   - [ ] Курс | [Traefik Crash Course](https://www.youtube.com/watch?v=C6IL8tjwC5E)
