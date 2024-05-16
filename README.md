@@ -12,7 +12,7 @@
    - [x] [Чтение технической литераторы IT, man](https://github.com/AlbLatypov/books.git)
   <br>
 
-- __Software engineering__
+- __Практика на платформах, общие курсы__
    -  KodeKloud Engineer | [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)\
         🔗 Практика | [Задачи Linux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/60)\
         🔗 Практика | [Задачи Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/100)\
