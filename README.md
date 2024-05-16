@@ -13,11 +13,11 @@
   <br>
 
 - __Software engineering__
-   -  KodeKloud Engineer | [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)
-        🔗 Практика | [Задачи Linux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/60)
-        🔗 Практика | [Задачи Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/100)
-        🔗 Практика | [Задачи Ansible](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Ansible/README_ansible.md)&ensp;![Progress](https://progress-bar.dev/50)
-        🔗 Практика | [Задачи Git](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Git/README_git.md)&ensp;![Progress](https://progress-bar.dev/25)
+   -  KodeKloud Engineer | [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)\
+        🔗 Практика | [Задачи Linux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/60)\
+        🔗 Практика | [Задачи Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/100)\
+        🔗 Практика | [Задачи Ansible](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Ansible/README_ansible.md)&ensp;![Progress](https://progress-bar.dev/50)\
+        🔗 Практика | [Задачи Git](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Git/README_git.md)&ensp;![Progress](https://progress-bar.dev/25)\
         🔗 Практика | [Задачи Jenkins](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Jenkins/README_jenkins.md)&ensp;![Progress](https://progress-bar.dev/25)
 
     - Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)
