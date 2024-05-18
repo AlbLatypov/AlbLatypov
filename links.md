@@ -3,6 +3,7 @@
 
 - [x] Статья | [Обучение системного инженера. Путеводитель по ключевым навыкам и знаниям](https://habr.com/ru/companies/yandex_praktikum/articles/796929/)
 - [x] Статья | [Шпаргалка по работе с Tmux (терминальный мультиплексор)](https://habr.com/ru/articles/327630/)
+- [x] Статья | [Изучаем Docker. Часть 1,2,3,4,5,6](https://habr.com/ru/companies/ruvds/articles/438796/)
 - [ ] Статья | [Вы должны перестать вручную писать Dockerfile'ы](https://habr.com/ru/articles/807501/)
 - [ ] Статья | [Load Average в Linux: разгадка тайны](https://habr.com/ru/companies/vk/articles/335326/)
 - [x] Статья | [Zabbix vs Grafana A Comprehensive Guide to Choosing the Right Monitoring Tool](https://faun.dev/c/stories/squadcast/zabbix-vs-grafana-a-comprehensive-guide-to-choosing-the-right-monitoring-tool/)
@@ -11,6 +12,7 @@
 - [ ] Статья | [LVM — это просто!](https://habr.com/ru/articles/67283/)
 - [x] Статья | [Без curl/wget/telnet делать tcp/udp запросы.](linux.md)
 - [ ] Статья | [Пример файла .bashrc](https://www.opennet.ru/docs/RUS/bash_scripting_guide/a15124.html)
+- [ ] Статья | [Apache vs Nginx: практический взгляд](https://habr.com/ru/articles/267721/)
 - [ ] Статья | [Bash скрипты. Цикл статей](https://habr.com/ru/companies/ruvds/articles/325522/)
 - [ ] Сайт учебник | [Пишем Telegram-ботов с aiogram 3.x ](https://mastergroosha.github.io/aiogram-3-guide/)
 - [ ] Github | [Универсальный сборник статей по наиболее важным темам GNU/Linux.](https://github.com/iu5git/linux-course/blob/master/Wiki.md)
