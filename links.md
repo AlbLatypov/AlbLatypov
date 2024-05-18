@@ -4,6 +4,7 @@
 - [x] Статья | [Обучение системного инженера. Путеводитель по ключевым навыкам и знаниям](https://habr.com/ru/companies/yandex_praktikum/articles/796929/)
 - [x] Статья | [Шпаргалка по работе с Tmux (терминальный мультиплексор)](https://habr.com/ru/articles/327630/)
 - [x] Статья | [Изучаем Docker. Часть 1,2,3,4,5,6](https://habr.com/ru/companies/ruvds/articles/438796/)
+- [x] Статья | [Изучаем Docker. ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/companies/slurm/articles/329138/)
 - [ ] Статья | [Вы должны перестать вручную писать Dockerfile'ы](https://habr.com/ru/articles/807501/)
 - [ ] Статья | [Load Average в Linux: разгадка тайны](https://habr.com/ru/companies/vk/articles/335326/)
 - [x] Статья | [Zabbix vs Grafana A Comprehensive Guide to Choosing the Right Monitoring Tool](https://faun.dev/c/stories/squadcast/zabbix-vs-grafana-a-comprehensive-guide-to-choosing-the-right-monitoring-tool/)
