@@ -17,8 +17,8 @@
         🔗 Практика | [Задачи Linux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/60)\
         🔗 Практика | [Задачи Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/100)\
         🔗 Практика | [Задачи Ansible](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Ansible/README_ansible.md)&ensp;![Progress](https://progress-bar.dev/50)\
-        🔗 Практика | [Задачи Git](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Git/README_git.md)&ensp;![Progress](https://progress-bar.dev/25)\
-        🔗 Практика | [Задачи Jenkins](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Jenkins/README_jenkins.md)&ensp;![Progress](https://progress-bar.dev/25)
+        🔗 Практика | [Задачи Git](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Git/README_git.md)&ensp;![Progress](https://progress-bar.dev/60)\
+        🔗 Практика | [Задачи Jenkins](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Jenkins/README_jenkins.md)&ensp;![Progress](https://progress-bar.dev/50)
 
     - Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)
     -  Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)
@@ -84,7 +84,7 @@
 
 - __CI/CD__
   -  Youtube | [Система автоматизации Jenkins. Часть 1,2,3](https://youtu.be/tvswVeMptLM?list=TLPQMTUwNTIwMjRI67BAOsAXuQ)&ensp;![Progress](https://progress-bar.dev/0)
-  - Youtube | [Jenkins](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)&ensp;![Progress](https://progress-bar.dev/0)
+  - Youtube | [Jenkins](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)&ensp;![Progress](https://progress-bar.dev/55
   -  Youtube | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)&ensp;![Progress](https://progress-bar.dev/0)
   - 
 
