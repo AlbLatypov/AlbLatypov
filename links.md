@@ -32,6 +32,7 @@
 - [x] Cайт | [5 современных альтернатив старым инструментам командной строки Linux](https://habr.com/ru/companies/vdsina/articles/508748/)
  - [ ] Презентация | [The internals and the latest trends of container runtimes. _Akihiro Suda. June 16,2023_ ](https://github.com/AkihiroSuda/AkihiroSuda/blob/34a896dd675196c1c1ece01859530c5ef4eb3fd6/slides/2023/20230615%20%5BKyoto%20University%5D%20The%20internals%20and%20the%20latest%20trends%20of%20container%20runtimes.pdf)&ensp;![Progress](https://progress-bar.dev/0)
  - [ ] Вебсайт | [Linux Upskill Challenge: Learn the skills required to sysadmin a remote Linux server from the command line](https://linuxupskillchallenge.org/)&ensp;![Progress](https://progress-bar.dev/10)
+ - [ ] Python | [Изучаем Python за 6 месяцев. Подробный план обучения](https://habr.com/ru/articles/709102/)
 
 
 
