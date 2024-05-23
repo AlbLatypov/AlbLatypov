@@ -83,8 +83,8 @@
 <br>
 
 - __CI/CD__
-  -  Youtube | [Система автоматизации Jenkins. Часть 1,2,3](https://youtu.be/tvswVeMptLM?list=TLPQMTUwNTIwMjRI67BAOsAXuQ)&ensp;![Progress](https://progress-bar.dev/0)
-  - Youtube | [Jenkins](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)&ensp;![Progress](https://progress-bar.dev/55
+  -  Youtube | [Система автоматизации Jenkins. Часть 1,2,3](https://youtu.be/tvswVeMptLM?list=TLPQMTUwNTIwMjRI67BAOsAXuQ)&ensp;![Progress](https://progress-bar.dev/60)
+  - Youtube | [Jenkins](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)&ensp;![Progress](https://progress-bar.dev/55)
   -  Youtube | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)&ensp;![Progress](https://progress-bar.dev/0)
   - 
 
