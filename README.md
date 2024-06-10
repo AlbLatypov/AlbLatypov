@@ -14,15 +14,15 @@
 
 - __Практика на платформах, общие курсы__
    -  KodeKloud Engineer | [Kodekloud.com онлайн-платформа DevOps](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/README.md)\
-        🔗 Практика | [Задачи Linux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/60)\
+        🔗 Практика | [Задачи Linux](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Linux/README_linux.md)&ensp;![Progress](https://progress-bar.dev/75)\
         🔗 Практика | [Задачи Docker](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Docker/README_docker.md)&ensp;![Progress](https://progress-bar.dev/100)\
         🔗 Практика | [Задачи Ansible](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Ansible/README_ansible.md)&ensp;![Progress](https://progress-bar.dev/50)\
         🔗 Практика | [Задачи Git](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Git/README_git.md)&ensp;![Progress](https://progress-bar.dev/100)\
-        🔗 Практика | [Задачи Jenkins](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Jenkins/README_jenkins.md)&ensp;![Progress](https://progress-bar.dev/75)
+        🔗 Практика | [Задачи Jenkins](https://github.com/AlbLatypov/Software_Engineering/blob/main/Kodekloud/Jenkins/README_jenkins.md)&ensp;![Progress](https://progress-bar.dev/90)
 
-    - Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)
-    - Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)
-  - Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books)
+   - Курс | [Лекторий по SRE от Тинькофф](https://github.com/AlbLatypov/Software_Engineering.git)
+   - Курс | [ИУ-5 Кафедра «Системы обработки информации и управления» МГТУ им. Н.Э. Баумана. Введение в DevOps и SRE](https://github.com/AlbLatypov/Software_Engineering.git)
+   - Книга | [📚Философия DevOps. Искусство управления IT. _Д.Дэвис, К. Дэниелс_](https://github.com/AlbLatypov/books)
 
   <br>
 
@@ -46,7 +46,7 @@
 <br>
 
 - __Programming__
-  - Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/92)
+  - Курс | [Stepik - "Поколение Python": курс для продвинутых](https://github.com/AlbLatypov/python_advanced.git)&ensp;![Progress](https://progress-bar.dev/96)
   - Курс | [Stepik - PRO Go. Основы программирования](https://stepik.org/158385) &ensp;![Progress](https://progress-bar.dev/60)
   - Курс | [Stepik - Телеграм-боты на Python и AIOgram (курс приостановлен)](https://stepik.org/120924) &ensp;![Progress](https://progress-bar.dev/63)
   - Курс | [Stepik - BASH - стратегический запас программиста](https://stepik.org/108102) &ensp;![Progress](https://progress-bar.dev/55)
@@ -55,7 +55,7 @@
 <br>
 
 - __Networks__
-  - Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/15)
+  - Курс | Андрей Созыкин. [Компьютерные сети 2016 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/85)
   - Курс | Андрей Созыкин. | Будут еще лекции [Компьютерные сети 2024 год](https://github.com/AlbLatypov/Networks.git)&ensp;![Progress](https://progress-bar.dev/80)
   - Курс | Андрей Созыкин. [Защищенные сетевые протоколы](https://www.youtube.com/watch?v=LTLqazCztnc&list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv&pp=iAQB)&ensp;![Progress](https://progress-bar.dev/0)
   - Сайт | Андрей Созыкин [Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
@@ -83,8 +83,8 @@
 <br>
 
 - __CI/CD__
-  -  Youtube | [Система автоматизации Jenkins. Часть 1,2,3](https://youtu.be/tvswVeMptLM?list=TLPQMTUwNTIwMjRI67BAOsAXuQ)&ensp;![Progress](https://progress-bar.dev/60)
-  - Youtube | [Jenkins](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)&ensp;![Progress](https://progress-bar.dev/55)
+  -  Youtube | [Система автоматизации Jenkins. Часть 1,2,3](https://youtu.be/tvswVeMptLM?list=TLPQMTUwNTIwMjRI67BAOsAXuQ)&ensp;![Progress](https://progress-bar.dev/100)
+  -  Youtube | [Jenkins](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)&ensp;![Progress](https://progress-bar.dev/55)
   -  Youtube | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)&ensp;![Progress](https://progress-bar.dev/0)
   - 
 
